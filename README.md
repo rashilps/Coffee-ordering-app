@@ -1,3 +1,4 @@
 # JustJava
 UDACITY- Coffee maker app
-[Alt text](CoffeeMaker/Screenshot (30-Jul-2017 6-57-58 PM).png?raw=true "Just Java")
+
+{![CoffeeMaker](https://github.com/rashilps/CoffeeMaker/blob/master/Screenshot%20(30-Jul-2017%206-57-58%20PM).png)}
