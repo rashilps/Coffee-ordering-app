@@ -1,7 +1,7 @@
 # JustJava
 UDACITY- Coffee ordering app
 
-This is a coffee ordering app which takes input as how many number of coffee does customer require and also asks if the customer requires whipper cream and chocolate as an addon.
+This is a coffee ordering app which takes input as name, number of coffee and also asks if the customer requires whipped cream and chocolate as an add-on.
 
 It also uses intent so that the information which customer has provided can be sent to Gmail app and diretly add them into body of the mail in compose option in Gmail. 
 
